@@ -1,0 +1,7 @@
+C:\Users\maxde\source\repos\Omelchenko_dz1_4\Omelchenko_dz1_4\bin\Debug\Omelchenko_dz1_4.exe.config
+C:\Users\maxde\source\repos\Omelchenko_dz1_4\Omelchenko_dz1_4\bin\Debug\Omelchenko_dz1_4.exe
+C:\Users\maxde\source\repos\Omelchenko_dz1_4\Omelchenko_dz1_4\bin\Debug\Omelchenko_dz1_4.pdb
+C:\Users\maxde\source\repos\Omelchenko_dz1_4\Omelchenko_dz1_4\obj\Debug\Omelchenko_dz1_4.csproj.AssemblyReference.cache
+C:\Users\maxde\source\repos\Omelchenko_dz1_4\Omelchenko_dz1_4\obj\Debug\Omelchenko_dz1_4.csproj.CoreCompileInputs.cache
+C:\Users\maxde\source\repos\Omelchenko_dz1_4\Omelchenko_dz1_4\obj\Debug\Omelchenko_dz1_4.exe
+C:\Users\maxde\source\repos\Omelchenko_dz1_4\Omelchenko_dz1_4\obj\Debug\Omelchenko_dz1_4.pdb
