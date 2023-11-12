@@ -1,1 +1,2 @@
-# language_-oncatenation
+# Инструкция
+Для запуска необходим компьютер с windows.
